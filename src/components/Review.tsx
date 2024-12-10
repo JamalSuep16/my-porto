@@ -52,21 +52,21 @@ const data = [
     img: "/images/people-2.jpg",
     review: "VERY GOOD DELEVOPER I LOVE IT",
   },
-  {
-    name: "Yamal",
-    img: "/images/people-3.jpg",
-    review: "VERY GOOD DELEVOPER I LOVE IT",
-  },
-  {
-    name: "Yamal",
-    img: "/images/people-3.jpg",
-    review: "VERY GOOD DELEVOPER I LOVE IT",
-  },
-  {
-    name: "Yamal",
-    img: "/images/people-3.jpg",
-    review: "VERY GOOD DELEVOPER I LOVE IT",
-  },
+  // {
+  //   name: "Yamal",
+  //   img: "/images/people-3.jpg",
+  //   review: "VERY GOOD DELEVOPER I LOVE IT",
+  // },
+  // {
+  //   name: "Yamal",
+  //   img: "/images/people-3.jpg",
+  //   review: "VERY GOOD DELEVOPER I LOVE IT",
+  // },
+  // {
+  //   name: "Yamal",
+  //   img: "/images/people-3.jpg",
+  //   review: "VERY GOOD DELEVOPER I LOVE IT",
+  // },
 ];
 
 export default Review;
