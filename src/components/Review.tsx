@@ -58,13 +58,18 @@ const data = [
     review: "VERY GOOD DELEVOPER I LOVE IT",
   },
   {
-    name: "Yamal",
-    img: "/images/people-3.jpg",
+    name: "Lookman",
+    img: "/images/people-4.jpg",
     review: "VERY GOOD DELEVOPER I LOVE IT",
   },
   {
-    name: "Yamal",
-    img: "/images/people-3.jpg",
+    name: "Sarah",
+    img: "/images/people-5.jpg",
+    review: "VERY GOOD DELEVOPER I LOVE IT",
+  },
+  {
+    name: "Benjamin",
+    img: "/images/people-6.jpg",
     review: "VERY GOOD DELEVOPER I LOVE IT",
   },
 ];

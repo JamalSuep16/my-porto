@@ -27,6 +27,7 @@ const ContactMe = () => {
               alt=""
               className="mt-5 size-10"
             />
+            <img src="/" alt="" />
           </div>
         </div>
       </div>
